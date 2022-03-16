@@ -26,7 +26,7 @@ function FuzkiLib:Create(name, gameName)
     MainLib.Parent = Fuzki
     MainLib.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
     MainLib.Position = UDim2.new(0.357499987, 0, 0.162544176, 0)
-    MainLib.Size = UDim2.new(0, 469, 0, 484)
+    MainLib.Size = UDim2.new(0, 822, 0, 449)
 
     headerLine.Name = "headerLine"
     headerLine.Parent = MainLib
